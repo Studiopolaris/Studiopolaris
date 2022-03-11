@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Studiopolaris
-- 👀 I’m interested in programming
+- 👋 Hi, I’m Bryan Venpin
+- 👀 I’m interested in software programming
 - 🌱 I’m currently learning Python, Html, Linux 
 - 💞️ I’m looking to collaborate on a part time/full time basis
 - 📫 How to reach me (bfvenpin@gmail.com)
